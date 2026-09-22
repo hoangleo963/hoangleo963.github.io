@@ -21,7 +21,7 @@
     </script>
     <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js"></script>
   </head>
-  <body>
+  <body{% if page.academic_style %} class="academic-page"{% endif %}>
     <div class="wrapper{% if page.full_width %} full-width{% endif %}">
       {% unless page.full_width %}
       <header>
