@@ -11,50 +11,17 @@ title: "Fall 2026: Regularized theta lifts and applications"
 
 ### SYNOPSIS
 
+The seminar will meet **TBA** in **TBA**. Meetings will take place weekly and will last approximately 90 minutes.
+
 Theta lifting is one of the fundamental constructions connecting automorphic forms on different groups. Starting from the Weil representation and a reductive dual pair, one forms a theta kernel and integrates it against automorphic forms. In the convergent range this construction is direct; outside that range, the theta integral may diverge and must be regularized.
 
-This seminar will develop the background needed to understand regularized theta lifts and then study the identities that make them useful. Topics will include the local and global Weil representations, theta correspondence, Eisenstein series, the Siegel--Weil formula, Kudla--Rallis regularization, first- and second-term identities, the Rallis inner product formula, and applications to special values and nonvanishing of automorphic \(L\)-functions. Depending on the interests of the participants, the final meetings may also discuss arithmetic theta lifts, special cycles, or related questions in relative trace formulas.
+The goal of the seminar is to understand regularized theta lifts and the identities that make them useful. We will begin with the local and global Weil representations and the theta correspondence, then study Eisenstein series, the Siegel--Weil formula, Kudla--Rallis regularization, first- and second-term identities, and the Rallis inner product formula. The final part will discuss applications to special values and nonvanishing of automorphic \(L\)-functions, arithmetic theta lifts, special cycles, or related questions in relative trace formulas.
 
-The aim is to make the main constructions and proofs accessible enough that participants can read current research papers and identify useful examples for further study.
+Most meetings will consist of a blackboard talk based on a selected section of lecture notes or a research paper. Familiarity with basic representation theory and automorphic forms will be helpful, but the essential background will be reviewed as needed. Participants are encouraged to give more than one talk.
+
+To receive announcements or volunteer for a talk, please contact [htnguyen35@wisc.edu](mailto:htnguyen35@wisc.edu). Information about a mailing list will be added later.
 
 **This is a working draft. All logistical details, speakers, dates, and reading assignments marked TBA are placeholders.**
-
-### LOGISTICS
-
-- **Meeting time:** TBA
-- **Location:** TBA
-- **Frequency:** Weekly, approximately 90 minutes
-- **Organizer:** Hoang Nguyen-Tien
-- **Contact:** [htnguyen35@wisc.edu](mailto:htnguyen35@wisc.edu)
-- **Mailing list:** TBA
-
-### FORMAT
-
-The seminar is intended to be collaborative. Most meetings will consist of a blackboard talk based on a selected section of a book, lecture notes, or a research paper. Speakers should emphasize the main ideas, state the precise results, and explain at least one representative calculation or example. When a proof is too long for one meeting, it may be divided between two speakers.
-
-Participants are welcome to give more than one talk. Notes, references, and any changes to the schedule will be posted on this page.
-
-### PREREQUISITES
-
-Familiarity with basic representation theory and automorphic forms will be helpful. We will review the essential background as needed. Useful preparation includes:
-
-- local and global fields, adeles, and algebraic groups;
-- smooth representations of reductive groups over local fields;
-- automorphic representations and Eisenstein series;
-- basic harmonic analysis and familiarity with \(L\)-functions.
-
-No prior knowledge of the theta correspondence or the Siegel--Weil formula will be assumed.
-
-### TENTATIVE GOALS
-
-By the end of the semester, we hope to understand:
-
-1. how the Weil representation produces local and global theta correspondences;
-2. when the global theta integral converges and why regularization is necessary outside the convergent range;
-3. how regularized theta integrals are related to residues and constant terms of Eisenstein series;
-4. the role of first- and second-term identities in the regularized Siegel--Weil formula;
-5. how the Rallis inner product formula connects theta lifts with special values of automorphic \(L\)-functions;
-6. several arithmetic, geometric, or period-theoretic applications.
 
 ### Schedule
 
@@ -144,14 +111,57 @@ By the end of the semester, we hope to understand:
 
 ### REFERENCES
 
-The precise reading assignments will be chosen later. The following sources are natural starting points:
+The precise reading assignments, editions, and links will be added later.
 
-1. background notes on the Weil representation and local theta correspondence (TBA);
-2. foundational papers of Weil, Howe, Rallis, Kudla, and Kudla--Rallis;
-3. treatments of the regularized Siegel--Weil formula and the Rallis inner product formula;
-4. papers on applications to automorphic \(L\)-functions, periods, and arithmetic theta lifting;
-5. additional references suggested by speakers and participants.
+**Weil representation and theta correspondence**
 
-### PARTICIPATION
+- A. Weil, foundational work on the Weil representation and theta series.
+- R. Howe, articles on reductive dual pairs and Howe duality.
+- S. Kudla, notes on the local theta correspondence.
+- Additional introductory notes on local and global theta lifting (TBA).
 
-The seminar will be open to graduate students, postdoctoral researchers, faculty, and other interested participants. If you would like to speak, suggest a reference, or propose an application for the final part of the seminar, please contact the organizer. A sign-up procedure will be added once the meeting time and room are confirmed.
+**Siegel--Weil formula and regularization**
+
+- S. Kudla and S. Rallis, papers on the regularized Siegel--Weil formula.
+- W. T. Gan, Y. Qiu, and S. Takeda, work on second-term identities and the Rallis inner product formula.
+- Background references on Eisenstein series and the doubling method (TBA).
+
+**Applications**
+
+- References on special values and nonvanishing of automorphic \(L\)-functions.
+- References on arithmetic theta lifts and special cycles.
+- Additional papers suggested by speakers and participants.
+
+### OUTLINE
+
+Here are some topics we may pursue in the seminar. The division into parts is tentative.
+
+#### Part 0: Introduction and motivation
+
+We will introduce classical theta series, reductive dual pairs, and the general philosophy of theta lifting. The aim is to explain where divergent theta integrals arise and to preview the relationship among theta lifts, Eisenstein series, and automorphic \(L\)-functions.
+
+#### Part 1: Weil representations and theta correspondence
+
+- **Week 2: Symplectic and metaplectic groups.** Heisenberg groups, the Stone--von Neumann theorem, and the construction of the metaplectic cover.
+- **Week 3: The local Weil representation.** Schrödinger models, splittings, and basic examples.
+- **Week 4: Local theta correspondence.** Reductive dual pairs, Howe duality, and first-occurrence questions.
+- **Week 5: Global theta lifting.** Global Weil representations, theta kernels, automorphicity, and cuspidality.
+
+#### Part 2: Siegel--Weil formula and regularization
+
+- **Week 6: Convergence and towers.** Convergent ranges, persistence, and first-occurrence phenomena.
+- **Week 7: Eisenstein series.** Degenerate principal series, constant terms, and residues.
+- **Week 8: Classical Siegel--Weil formula.** Comparison of theta integrals with values of Eisenstein series.
+- **Week 9: Kudla--Rallis regularization.** Regularizing operators and regularized theta integrals.
+- **Weeks 10--11: First- and second-term identities.** Boundary cases and the structure of the regularized Siegel--Weil formula.
+
+#### Part 3: Inner product formulas and applications
+
+- **Week 12: Doubling method and Rallis inner product formula.** Global zeta integrals and local factors.
+- **Week 13: Applications to \(L\)-functions.** Special values, nonvanishing, and consequences for theta lifts.
+
+#### Part 4: Further topics
+
+Possible topics include arithmetic theta lifting, special cycles, derivatives of Eisenstein series, seesaw identities, period integrals, and connections with relative trace formulas.
+
+This seminar is organized by [Hoang Nguyen-Tien](mailto:htnguyen35@wisc.edu).
