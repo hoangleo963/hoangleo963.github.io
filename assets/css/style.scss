@@ -26,6 +26,23 @@ body {
   padding-top: 56px;
 }
 
+.wrapper.full-width {
+  max-width: 960px;
+  width: auto;
+}
+
+.full-width .content {
+  float: none;
+  width: 100%;
+}
+
+.full-width footer {
+  float: none;
+  margin-top: 48px;
+  position: static;
+  width: 100%;
+}
+
 header h1 {
   letter-spacing: -0.04em;
   margin-bottom: 24px;
