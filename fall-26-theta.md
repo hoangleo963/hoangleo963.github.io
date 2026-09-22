@@ -65,7 +65,7 @@ The seminar will meet Fridays during 14:00-15:30 in **TBA**.
     <tr>
       <td>Nov 20</td>
       <td>TBA</td>
-      <td>Divergent theta integrals and the idea of regularization</td>
+      <td></td>
     </tr>
     <tr>
       <td>Nov 27</td>
