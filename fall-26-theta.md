@@ -89,7 +89,7 @@ The seminar will meet Fridays during 14:00-15:30 in **TBA**.
 
 **Weil representation and theta correspondence**
 
-- Jan H. Bruinier, [Borcherds products on O(2,l) and Chern classses of Heegner divisors](/pdfs/bruinier2004.pdf).
+- Jan H. Bruinier, [Borcherds products on \\(O(2,l)\\) and Chern classses of Heegner divisors](/pdfs/bruinier-2004.pdf).
 
 **Geometric theta lifting**
 
