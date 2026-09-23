@@ -29,33 +29,33 @@ The seminar will meet Fridays during 14:00-15:30 in **TBA**.
   <tbody>
     <tr>
       <td>Oct 02</td>
-      <td>TBA</td>
-      <td></td>
+      <td>Hoang Nguyen</td>
+      <td>Weil representation: the Schrödinger and Fock model</td>
     </tr>
     <tr>
       <td>Oct 09</td>
-      <td>TBA</td>
-      <td></td>
+      <td>Hoang Nguyen</td>
+      <td>Local and global theta correspondence</td>
     </tr>
     <tr>
       <td>Oct 16</td>
       <td>TBA</td>
-      <td></td>
+      <td>Modular forms of half-integral weights</td>
     </tr>
     <tr>
       <td>Oct 23</td>
       <td>TBA</td>
-      <td></td>
+      <td>Weakly holomorphic modular forms</td>
     </tr>
     <tr>
       <td>Oct 30</td>
       <td>TBA</td>
-      <td></td>
+      <td>Theta lifting: Kudla-Millson lifts (I)</td>
     </tr>
     <tr>
       <td>Nov 06</td>
       <td>TBA</td>
-      <td></td>
+      <td>Theta lifting: Kudla-Millson lifts (II)</td>
     </tr>
     <tr>
       <td>Nov 13</td>
