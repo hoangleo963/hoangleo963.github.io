@@ -89,6 +89,8 @@ The seminar will meet Fridays during 14:00-15:30 in **TBA**.
 
 **Weil representation and theta correspondence**
 
+- [Jan H. Bruinier](/pdfs/bruinier2004.pdf)
+
 **Geometric theta lifting**
 
 **Regularization and applications**
