@@ -89,11 +89,27 @@ The seminar will meet Fridays during 14:00-15:30 in **TBA**.
 
 **Weil representation and theta correspondence**
 
+- J. Adams, The theta correspondence over \\(\mathbb R\\).
 - Jan H. Bruinier, [Borcherds products on \\(O(2,l)\\) and Chern classses of Heegner divisors](/pdfs/bruinier-2004.pdf).
+- D. Prasad, [Weil representation, Howe duality, and the theta correspondence](/pdfs/weil-rpn.pdf).
 
-**Geometric theta lifting**
+**Modular forms**
+
+- P. Sarnak, Some applications of modular forms (Chapter I).
+- TBD
+
+**Geometric theta lifting and Kudla-Millson lifts**
+
+- J. H. Bruinier, J. Funke, On two geometric theta lifts.
+- S. S. Kudla, J. J. Milson, The theta correspondence and harmonic forms. I-II.
+- S. S. Kudla, J. J. Milson, Intersection numbers of cycles on locally symmetric spaces and fourier coefficients of holomorphic modular forms in several complex variables.
 
 **Regularization and applications**
+
+- J. Bruinier, J. Funke, Trace of CM values of modular functions.
+- J. Funke, Heegner divisors and nonholomorphic modular forms.
+- S. Katok, P. Sarnak, Heegner points, cycles and Maass forms.
+- R. Strathausen, Der Millson-Lift von \\(1/j\\).
 
 
 ### Outline
