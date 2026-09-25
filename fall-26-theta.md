@@ -39,7 +39,7 @@ The seminar will meet Fridays during 14:00-15:30 in **TBA**.
     </tr>
     <tr>
       <td>Oct 16</td>
-      <td>TBA</td>
+      <td>Che-Wei Hsu</td>
       <td>Modular forms of half-integral weights</td>
     </tr>
     <tr>
