@@ -91,7 +91,7 @@ The seminar will meet Fridays during 14:00-15:30 in **TBA**.
 
 - J. Adams, The theta correspondence over \\(\mathbb R\\).
 - Jan H. Bruinier, [Borcherds products on \\(O(2,l)\\) and Chern classses of Heegner divisors](/pdfs/bruinier-2004.pdf).
-- D. Prasad, [Weil representation, Howe duality, and the theta correspondence](/pdfs/weil-rpn.pdf).
+- D. Prasad, [Weil representation, Howe duality, and the theta correspondence](/pdfs/weil-repn.pdf).
 
 **Modular forms**
 
