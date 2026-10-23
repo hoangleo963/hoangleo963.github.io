@@ -10,9 +10,9 @@ title: "Fall 2026: Regularized theta lifts and applications"
 # Fall 2026: Regularized theta lifts and applications
 
 
-The goal of the seminar is to understand blah blah blah 
+The goal of the seminar is to understand regularized theta lifts and their applications, with a long-term emphasis on the analytic and geometric properties of special cycles of symmetric spaces.
 
-The seminar will meet Fridays during 14:00-15:30 in **TBA**.
+The seminar will meet Fridays during 14:00-15:30 in B203.
 
 ### Schedule
 
@@ -44,17 +44,17 @@ The seminar will meet Fridays during 14:00-15:30 in **TBA**.
     </tr>
     <tr>
       <td>Oct 23</td>
-      <td>TBA</td>
+      <td>Yiwen Bai</td>
       <td>Weakly holomorphic modular forms</td>
     </tr>
     <tr>
       <td>Oct 30</td>
-      <td>TBA</td>
+      <td>Xingrui Huang</td>
       <td>Theta lifting: Kudla-Millson lifts (I)</td>
     </tr>
     <tr>
       <td>Nov 06</td>
-      <td>TBA</td>
+      <td>Alejo Salvatore</td>
       <td>Theta lifting: Kudla-Millson lifts (II)</td>
     </tr>
     <tr>
@@ -96,7 +96,6 @@ The seminar will meet Fridays during 14:00-15:30 in **TBA**.
 **Modular forms**
 
 - P. Sarnak, Some applications of modular forms (Chapter I).
-- TBD
 
 **Geometric theta lifting and Kudla-Millson lifts**
 
